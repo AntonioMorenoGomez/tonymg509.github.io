@@ -7,34 +7,33 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 # 1 Datos 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : MI Proyecto(Minoo's Board)
 
-**Web:**   (url github.io)
+**Web:**   (tonymg509.github.io)
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  (Antonio Moreno Gomez)
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Este proyecto busca mostrar mi obra artística al público. 
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Portfolio.
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
 (insertar imágenes a resolucion de 100px alto)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** ¿?
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**  MS Edge.
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 95-100MB 
 
-**Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
+**Licencia** ¿?
 
-**Fecha** : 14/05/2020
+**Fecha** : 10/05/22
 
 **Medios** (donde se tiene presencia relacionada):
 
-- Github:
-- Twitter
+- Github
 - Instagram
 
 
@@ -46,7 +45,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+En mi proyecto puedes acceder a mis obras a partir de distintos botones e interactuar con estas como pasar adelante y atrás, puzzles, etc. También puedes elegir la música a tu gusto y reproducir un tutorial para saber como navegar por el portfolio. 
 
 
 
@@ -64,7 +63,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 # 3. Metodología
 
-Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
+Para llevar a cabo este proyecto he usado el programa Hippani. 
 
 
 
@@ -79,13 +78,13 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Lo que me motivó a hacer este proyecto es que llevaba bastante tiempo pensando en comenzar a crear mi portfolio para poder enseñarselo a la gente y que viese lo que hago, así que decidí aprovechar la ocasión para comenzar a hacerlo. 
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a todos los públicos. 
 
 
 
